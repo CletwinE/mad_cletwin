@@ -8,7 +8,7 @@
     android:padding="30dp"
     tools:context=".Login_Form"
     >
-
+    //Image View
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="200dp"
