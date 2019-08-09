@@ -120,7 +120,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:background="@drawable/button_rounded"
-        android:onClick="btn_loginForm"
         android:text="Login"
         android:textColor="#ffffff"
         android:textSize="22sp" />

@@ -51,10 +51,10 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
+        android:id="@+id/btn_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="40dp"
-        android:onClick="btn_profile"
         android:background="@drawable/button_rounded"
         android:text="Login"
         android:textColor="#ffffff"
@@ -65,8 +65,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
         android:background="@drawable/button_rounded"
-        android:onClick="btn_signupForm"
         android:text="Register"
+        android:id="@+id/btn_register"
         android:textColor="#ffffff"
         android:textSize="22sp" />
 

@@ -106,9 +106,7 @@ public class Signup_Form extends AppCompatActivity {
         });
     }
 
-    public void btn_loginForm(View view){
-        startActivity(new Intent(getApplicationContext(),Login_Form.class));
-    }
+
 
 
 
